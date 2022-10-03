@@ -11697,3 +11697,8 @@ audio::-webkit-media-controls-timeline{
 #nav-interna{
   width: 100px;
 } 
+.img-trailer{
+  align-items: center;
+  margin-left: 10pc;
+  margin-right: none;
+}
